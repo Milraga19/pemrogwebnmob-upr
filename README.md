@@ -19,3 +19,7 @@ Di modul ini kita mempelajari tentang Database yang dimana database dapat menyim
 #4 Asynchronous Javascript dan XML<br>
 <br>
 Dalam modul ini kita mempelajari tentang AJAX yang berfungsi membuat sebuah web menjadi dinamis dan cepat. AJAX mengizinkan halaman web diperbaharui secara asinkron oleh pertukaran data dalam jumlah kecil dengan aktifitas server dibelakang layar. Jadi, pembaharuan halaman web dilakukan tanpa merubah seluruh tampilan halaman. Halaman web yang klasik (tidak menggunakan AJAX) harus memuat seluruh halaman jika kontennya harus berubah. 
+<br>
+<br>
+ #5 Instalasi React-Native<br>
+Dalam modul ini kita mempelajari tentang react-native dan cara instalasinya. React Native memungkinkan Anda membangun aplikasi seluler hanya dengan menggunakan JavaScript. Ini menggunakan desain yang sama seperti React, memungkinkan Anda membuat UI seluler yang kaya dari komponen deklaratif. Dengan React Asli, Anda tidak membuat aplikasi web seluler, aplikasi HTML5, atau aplikasi hibrida; Anda membangun yang nyata aplikasi seluler yang tidak bisa dibedakan dari aplikasi yang dibuat menggunakan Objective-C atau Java. React Native menggunakan blok penyusun UI fundamental yang sama dengan aplikasi iOS  dan  Android  biasa.  Anda cukup  menyatukan  blok-blok  itu  menggunakan JavaScript dan React.
