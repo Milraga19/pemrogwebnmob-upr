@@ -23,3 +23,7 @@ Dalam modul ini kita mempelajari tentang AJAX yang berfungsi membuat sebuah web 
 <br>
  #5 Instalasi React-Native<br>
 Dalam modul ini kita mempelajari tentang react-native dan cara instalasinya. React Native memungkinkan Anda membangun aplikasi seluler hanya dengan menggunakan JavaScript. Ini menggunakan desain yang sama seperti React, memungkinkan Anda membuat UI seluler yang kaya dari komponen deklaratif. Dengan React Asli, Anda tidak membuat aplikasi web seluler, aplikasi HTML5, atau aplikasi hibrida; Anda membangun yang nyata aplikasi seluler yang tidak bisa dibedakan dari aplikasi yang dibuat menggunakan Objective-C atau Java. React Native menggunakan blok penyusun UI fundamental yang sama dengan aplikasi iOS  dan  Android  biasa.  Anda cukup  menyatukan  blok-blok  itu  menggunakan JavaScript dan React.
+<br>
+<br>
+#6 Membuat Search by Flat List<br>
+Dalam modul ini kita mempelajari tentang bagaimana cara membuat aplikasi yang dapat mencari data yang data tersebut adalah format JSON dengan memanfaatkan React Native Base. React Native Base adalah library komponen yang dapat digunakan dalam membuat antarmuka pengguna. Komponen tersebut juga dapat diunduh dari sumber terbuka dan tidak dipungut biaya. Dengan digunakan, ini dapat membantu mengembangkan React Native aplikasi seluler untuk platform perangkat seperti iOS dan Android. Contoh hal yang sederhana adalah membuat daftar pencarian. Daftar pencarian berguna untuk memfilter data yang ingin Anda cari atau gunakan untuk memudahkan pengguna.
